@@ -1,0 +1,17 @@
+                          POLYTECHNIC UNIVERSITY OF THE PHILIPPINES
+                         COLLEGE OF COMPUTER AND INFORMATION SCIENCE
+                                STUDENT GRADING SYSTEM
+
+
+YEAR LEVEL  NO. OF    PRELIM    MIDTERM    FINAL GRADE  AVERAGE   PASSED      FAILED
+            STUDENTS  GRADE     GRADE                   GRADE
+
+Freshmen       3      82.33     81.00       85.00       82.77       3           0
+
+Sophomore      2      69.00     68.50       69.00       68.83       0           2
+
+Junior         3      85.66     88.00       88.00       87.22       3           0
+
+Senior         2      75.00     77.50       80.00       77.49       1           1
+
+TOTAL         10                                                    7           3

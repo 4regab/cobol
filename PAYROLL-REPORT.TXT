@@ -1,0 +1,17 @@
+                                   ABCDEF TECHNOLOGY COMPANY
+
+                                        EMPLOYEE PAYROLL
+
+
+EMPLOYEE TYPE   NO. OF   BASIC PAY     ALLOWANCE     GROSS PAY     DEDUCTION     NET PAY
+                EMPLOYEES
+
+Faculty          99       44,550.00      4,455.00     49,005.00      5,346.00     43,659.00
+
+Administrative   99       31,680.00      3,168.00     34,848.00      3,801.60     31,046.40
+
+Utility          99       27,720.00      2,772.00     30,492.00      3,326.40     27,165.60
+
+Security         99       29,700.00      2,970.00     32,670.00      3,564.00     29,106.00
+
+TOTAL           396      133,650.00     13,365.00    147,015.00     16,038.00    130,977.00

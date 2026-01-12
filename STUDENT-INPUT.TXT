@@ -1,0 +1,10 @@
+Freshmen,1,85,80,88
+Freshmen,2,78,82,80
+Freshmen,3,84,81,87
+Sophomore,1,70,68,72
+Sophomore,2,68,69,66
+Junior,1,88,90,92
+Junior,2,82,85,80
+Junior,3,87,89,92
+Senior,1,80,82,85
+Senior,2,70,73,75
