@@ -11,9 +11,9 @@ Note: Make sure you are in the right directory when running the programs. If not
 
 | File | Description |
 |------|-------------|
-| `prog1.cob` | Employee Payroll System - clean production code |
+| `prog1.cob` | Employee Payroll System |
 | `prog1-commented.cob` | Employee Payroll System - heavily commented version for learning |
-| `prog2.cob` | Student Grading System - clean production code |
+| `prog2.cob` | Student Grading System  |
 | `prog2-commented.cob` | Student Grading System - heavily commented version for learning |
 
 ---
